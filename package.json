@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000 --host",
-    "build": "tsc && vite build",
+    "build": "npx tsc && vite build",
     "lint": "echo 'No lint script'",
     "preview": "vite preview"
   },
