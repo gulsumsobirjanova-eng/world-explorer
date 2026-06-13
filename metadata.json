@@ -1,0 +1,8 @@
+{
+  "name": "WorldExplorer",
+  "description": "Global Countries Information Platform dynamically fetching and displaying rich detail about 250+ countries with advanced search, filter, and interactive detail views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
